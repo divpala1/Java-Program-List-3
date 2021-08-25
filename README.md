@@ -71,7 +71,9 @@ Input ending range: 15
 Output: 5,7,11,13,15  
 
 18.	Program to print the output of following series:  
-
+![f](https://user-images.githubusercontent.com/71623788/130753420-b7264d1e-f815-4066-b874-af0dd46c219e.jpg)
+![g](https://user-images.githubusercontent.com/71623788/130753428-16fd95c6-71ea-4484-b0f6-638c36ccaba3.jpg)
+![h](https://user-images.githubusercontent.com/71623788/130753431-e00ead56-43ed-4228-a274-6865ac41e7a6.jpg)
 
 19.	Program to check whether the input number is perfect number or not.  
 Perfect number: A positive integer Is a perfect number if it is equal to the sum of all of its positive divisors excluding itself.  
